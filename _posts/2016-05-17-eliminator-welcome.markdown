@@ -15,3 +15,8 @@ they compete with their teammates to be the best that day. Well, coaches don't w
 practice so we decided to createan outlet for those competitive athletes. Here's your workout 
 (repeat 400m). Who can be the best? Don't run your pre-determined pace. Don't hold back. Race and
 race hard. Be the last one standing. Be the Eliminator.
+
+[Register][register] for a race or simply [Check Out][check out] our website.
+Come be a part of [the Eliminator][home page].
+
+[register]: 
