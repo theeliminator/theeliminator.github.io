@@ -19,4 +19,6 @@ race hard. Be the last one standing. Be the Eliminator.
 [Register][register] for a race or simply [Check Out][check out] our website.
 Come be a part of [the Eliminator][home page].
 
-[register]: 
+[register]: http://www.theeliminatorrace.com/#!register/c24vq
+[check out]: http://www.theeliminatorrace.com
+[home page]: http://www.theeliminatorrace.com
